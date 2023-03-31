@@ -1,0 +1,3 @@
+# print("Hello")
+name = input("Hay nhap ten cua ban: ")
+print(name + " Quang Dang")
